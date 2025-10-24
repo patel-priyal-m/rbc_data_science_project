@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+mlflow
+xgboost
+lightgbm
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+docker
